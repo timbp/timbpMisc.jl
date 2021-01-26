@@ -1,0 +1,7 @@
+name = "timbpMisc"
+uuid = "83a837b6-dcf2-4cdd-982c-290fd248505d"
+authors = ["Tim Badgery-Parker"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5"
