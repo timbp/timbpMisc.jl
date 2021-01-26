@@ -8,8 +8,6 @@ import Base.print
 import Dates
 
 using Distributions
-using Statistics
-using DataFrames
 
 export FinancialYear
 export controllimits
